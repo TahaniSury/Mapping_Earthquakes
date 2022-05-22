@@ -5,4 +5,4 @@ The purpose of this project is to visually show the differences between the magn
 
 ## The deliverable 1 output 
 
-![head-pic])(https://github.com/TahaniSury/Mapping_Earthquakes/blob/main/images/pic-for-d1.png)
+![head-pic](https://github.com/TahaniSury/Mapping_Earthquakes/blob/main/images/pic-for-d1.png)
