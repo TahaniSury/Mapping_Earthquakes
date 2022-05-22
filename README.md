@@ -5,3 +5,4 @@ The purpose of this project is to visually show the differences between the magn
 
 ## The deliverable 1 output 
 
+![head-pic])(
