@@ -13,5 +13,6 @@ The purpose of this project is to visually show the differences between the magn
 
 ## The deliverable 1 and 2 
 
-![head-pic](
+![head-pic](https://github.com/TahaniSury/Mapping_Earthquakes/blob/main/images/pic-for-3d.png)
+
 
